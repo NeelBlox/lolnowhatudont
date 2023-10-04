@@ -4,3 +4,4 @@ firebase==3.0.1
 firebase-admin==6.1.0
 python-jwt==3.3.2
 gcloud==0.18.3
+sseclient==0.0.27
