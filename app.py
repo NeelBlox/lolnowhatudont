@@ -37,7 +37,7 @@ def gen(m):
         firebase.put('/',key,np)
     else:
         result={
-            "key":'Code invalid not authorized'
+            "status":False
             }
     return result
 if __name__=="__main__":
